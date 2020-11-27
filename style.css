@@ -1,10 +1,44 @@
-
-
-body {
-    background-color: sandybrown;
+header {
+    background-color: burlywood;
+    
 }
-
 h1 {
     text-align: center;
 }
+
+p.indice {
+    color: darkgreen;
+    text-align: center;
+    background-color: #74CBF1;
+    
+}
+
+p.azul {
+    background-color: blue;
+}
+
+section {
+    margin-top: 5%;
+}
+
+article {
+    margin-top: 5%;
+    background-color: darkseagreen;
+}
+
+footer {
+    text-align: center;
+    margin-top: 7%;
+    background-color: burlywood;
+}
+
+h3 {
+
+    color: darkblue;
+}
+li {
+    color: darkblue;
+}
+
+
 
